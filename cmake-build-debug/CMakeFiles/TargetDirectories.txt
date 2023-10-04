@@ -1,0 +1,3 @@
+/Users/denpool/CLionProjects/Password_Manager/cmake-build-debug/CMakeFiles/untitled3.dir
+/Users/denpool/CLionProjects/Password_Manager/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/denpool/CLionProjects/Password_Manager/cmake-build-debug/CMakeFiles/rebuild_cache.dir

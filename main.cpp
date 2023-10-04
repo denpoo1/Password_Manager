@@ -1,0 +1,1 @@
+#include "Password/Password.h"#include "User/User.h"#include "LoginManager/LoginManager.h"using namespace std;int main() {    //Run program    LoginManager loginManager;    loginManager.run();}
